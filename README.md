@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I am scientist the intersections of quantum technologies, photonics, and machine learning. 
+My research interests revolve how to scale quantum computers and networks, inverse design tools in photonics, identifying regimes of realistic advantage in quantum sensing, and open-source technologies.
+
+
+Chief Science Officer @ Ki3 Photonics Technologies
+Outreach Lead @ Open Quantum Design
+
+Ph.D. @ University of Waterloo, the Institute for Quantum Computing, and the Perimeter Institute for Theoretical Physics
+
 <!--
 **benjimaclellan/benjimaclellan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
