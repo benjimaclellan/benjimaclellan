@@ -5,6 +5,7 @@ My research interests revolve how to scale quantum computers and networks, inver
 
 
 Chief Science Officer @ Ki3 Photonics Technologies
+
 Outreach Lead @ Open Quantum Design
 
 Ph.D. @ University of Waterloo, the Institute for Quantum Computing, and the Perimeter Institute for Theoretical Physics
