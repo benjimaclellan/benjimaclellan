@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I am scientist the intersections of quantum technologies, photonics, and machine learning. 
-My research interests revolve how to scale quantum computers and networks, inverse design tools in photonics, identifying regimes of realistic advantage in quantum sensing, and open-source technologies.
+I am scientist/programmer/open-source enthusiast, interested in the intersections of quantum technologies, photonics, and machine learning. 
+My work centers on how we can scale quantum computers and networks to reach new capabilities, how inverse design and machine learning tools can be used photonics to create better-performing devices, and how we can achieve realistic advantage in quantum sensing.
 
 
 Chief Science Officer @ Ki3 Photonics Technologies
